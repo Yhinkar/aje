@@ -1,0 +1,76 @@
+body{
+  background-color: white;
+}
+
+.topnav{
+  background-color: purple;
+  overflow: hidden;
+  border-bottom: 20px;
+  border: 5px solid #61eb34s;
+
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#h6{
+  font-family:"Arial";
+  margin: 100px 50px;
+  font-size: 2em;
+  color: purple;
+}
+#aje{
+  float: left;
+  font-size: 25px;
+  font-weight: bold;
+  color: orange;
+}
+#home{
+  float: left;
+}
+img{
+  float: right;
+}
+
+.sign-up-form{
+  width:400px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  background: #fff;
+  padding: 20px;
+  font-family: fantasy;
+  font-weight: lighter;
+  margin: 8% auto 0;
+  text-align: center;
+  background-color: purple;
+  margin-bottom: 40px;
+}
+.sign-up{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  border: 1px solid #999;
+  outline: none;
+}
+.sign-up h1{
+  color: #1c8adb;
+  margin-bottom: 30px;
+}
+.signup-btn{
+  color:#fff;
+  width:40%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0;
+  border: none;
+  background: blue;
+  outline: none;
+  cursor: pointer;
+}
